@@ -12,3 +12,9 @@ We combine **OpenWeather API** (for temperature data) and **Twitter sentiment an
 - Perform **sentiment analysis** using TextBlob or VADER.  
 - Compute a **daily mood score** and compare it with temperature.  
 - Visualise results with line and scatter plots.  
+
+---
+
+## Tech Stack
+- Python (Pandas, Matplotlib, Requests, TextBlob, Tweepy)
+- APIs: OpenWeather, Twitter (optional)
