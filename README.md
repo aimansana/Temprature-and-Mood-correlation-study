@@ -15,6 +15,6 @@ We combine **OpenWeather API** (for temperature data) and **Twitter sentiment an
 
 ---
 
-#Tech Stack
+## Tech Stack
 - Python (Pandas, Matplotlib, Requests, TextBlob, Tweepy)
 - APIs: OpenWeather, Twitter (optional)
