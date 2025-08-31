@@ -3,7 +3,7 @@ import requests
 import csv
 from datetime import datetime
 from dotenv import load_dotenv
-
+#aiman
 # Load API key from .env file
 load_dotenv()
 API_KEY = os.getenv("OPENWEATHER_API_KEY")
